@@ -1,12 +1,13 @@
-# Result on CloudFormation:
-![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/70c2bea8-896b-4789-b00d-86f9d114fcea)
+# This my result:
+## In Frontend API:
+![front-end](https://github.com/tannguyen2907/pj4-starter-code/assets/50420167/ecf74d31-43e0-4dca-b71e-1cb8fd4406ed)
+
+## Postman API:
+![postman2](https://github.com/tannguyen2907/pj4-starter-code/assets/50420167/f3d86b12-9b05-4a95-854b-0df3f0dea821)
 
 
-# Result on FrontEnd testing API:
-![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/2b27f846-f53e-4c6e-bcc4-7c80a74550de)
-![image](https://github.com/baominh03/c4-final-project-starter-code/assets/39981269/10b9f3ca-5d9e-49fb-9900-177756b28ad5)
-
-
+# AWS CloudFormation:
+![cloudformation](https://github.com/tannguyen2907/pj4-starter-code/assets/50420167/b6429060-bf18-46ba-8540-ebe739166d97)
 
 # Serverless TODO
 
